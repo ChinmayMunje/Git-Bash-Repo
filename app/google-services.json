@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "653021404084",
+    "firebase_url": "https://livewallpaper-12cfd.firebaseio.com",
+    "project_id": "livewallpaper-12cfd",
+    "storage_bucket": "livewallpaper-12cfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653021404084:android:357fa800214f8451",
+        "android_client_info": {
+          "package_name": "com.example.chaitanya.firebaseauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653021404084-ui7pi1hmun0kheh1ilqgacg6dsb7bsuk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaitanya.firebaseauthentication",
+            "certificate_hash": "e60b9e846ff2a48401fe2e6d7fb84d4fd5aab433"
+          }
+        },
+        {
+          "client_id": "653021404084-14b8gunbasg9r4af33gukrc2n6o4nb50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyu3kSv-qwHOKm_Eks7f8rYjdqNFdKsIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653021404084-14b8gunbasg9r4af33gukrc2n6o4nb50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653021404084:android:e569a1622097f7e7",
+        "android_client_info": {
+          "package_name": "com.example.chaitanya.livewallpaper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653021404084-cvrgea8jvic139skf0q97apd0cfl4te3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chaitanya.livewallpaper",
+            "certificate_hash": "5c9ee7b98b1f83b28b9cde779d6632f0a12e1603"
+          }
+        },
+        {
+          "client_id": "653021404084-14b8gunbasg9r4af33gukrc2n6o4nb50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyu3kSv-qwHOKm_Eks7f8rYjdqNFdKsIY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653021404084-14b8gunbasg9r4af33gukrc2n6o4nb50.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
